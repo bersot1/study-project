@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226600133821",
+    "firebase_url": "https://wearerich-7098a.firebaseio.com",
+    "project_id": "wearerich-7098a",
+    "storage_bucket": "wearerich-7098a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226600133821:android:9845e45efb84b0e06103d4",
+        "android_client_info": {
+          "package_name": "com.app.wearerich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226600133821-7hi7dmc78s1ko6ej30155299s7tbbht4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wearerich",
+            "certificate_hash": "b29249ad1f3e4d851baa0634c17108e49ae92298"
+          }
+        },
+        {
+          "client_id": "226600133821-5hkmnhd7vk2k7lkv5vitp247gfrren94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5OBu4vjWKiMi-6del-qAMhYjU1-37Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226600133821-5hkmnhd7vk2k7lkv5vitp247gfrren94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
